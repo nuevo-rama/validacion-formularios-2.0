@@ -1,2 +1,5 @@
-# validacion-formularios-2.0
-Validación de Formularios con express-generator
+# Validación de Formularios con express-generator
+------------------------
+
+
+1. npm install express-validator
